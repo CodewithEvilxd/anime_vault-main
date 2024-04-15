@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "framer-motion": "^11.0.28",
+    "json-server": "^1.0.0-alpha.23",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
-    "react-intersection-observer": "^9.8.2"
+    "react-intersection-observer": "^9.8.2",
+    "react-router-dom": "^6.22.3"
   },
   "devDependencies": {
     "@types/node": "^20",
